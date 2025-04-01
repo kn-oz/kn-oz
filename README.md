@@ -1,69 +1,79 @@
-<h1 align="center">Hi 👋, I'm Kaan Öztürk</h1>
-<h3 align="center">QA Automation Engineer | FinTech Enthusiast | Performance Fanatic</h3>
-
+<h1 align="center">Kaan Öztürk</h1>
+<p align="center"><strong>QA Automation Engineer | SDET | FinTech Specialist</strong></p>
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+  <a href="mailto:kaanozturkbusiness@gmail.com">📧 kaanozturkbusiness@gmail.com</a> • 
+  <a href="https://linkedin.com/in/kaan-ozturk">LinkedIn</a> • 
+  <a href="https://github.com/kn-oz">GitHub</a> • 
+  <a href="https://www.utest.com/profile/kaan.ozturk">uTest</a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧑‍💼 About Me
 
-- 🔭 I’m currently working on **Karate, Playwright and Backend Automation**
-- 🌱 I’m improving in **performance testing** using JMeter
-- 📫 Reach me at: **kaanozturkbusiness@gmail.com**
-- 🌍 Connect: [LinkedIn](https://linkedin.com/in/kaan-ozturk) • [uTest](https://www.utest.com/profile/kaan.ozturk)
+I’m a **QA Automation Engineer** with a strong background in end-to-end testing for financial applications.  
+I specialize in creating scalable automation frameworks, conducting performance testing, and enhancing test strategies in fast-paced, Agile environments.
+
+- 💻 Languages: Java, TypeScript, SQL
+- ⚙️ Frameworks: Playwright, Selenium, Karate, Cucumber, Appium
+- 📊 Testing Areas: UI • API • Mobile • Performance
+- 🔁 Tools: Postman, JMeter, Jenkins, Git, Jira, Xray, Confluence
+- 🌐 Fluent in English | Intermediate Spanish | Native Turkish
 
 ---
 
-### 💻 Tech Stack
+## 💼 Experience Highlights
+
+### **Odeal – QA Engineer**  
+*Istanbul, Turkey | Sep 2024 – Present*  
+- Backend test automation with **Karate** and **Playwright**  
+- Performance testing with **JMeter**  
+- Working in FinTech domain with CI/CD and Agile processes
+
+### **FTD Limited – Software Test Engineer**  
+*Dubai, UAE | Oct 2022 – Sep 2024*  
+- Built automation with **Selenium, Cucumber, TestNG**  
+- API and DB testing with **Postman & SQL**  
+- Mobile testing on Android & iOS using **Appium**
+
+---
+
+## 📜 Certifications
+
+- ✅ ISTQB® Foundation Level (2024)  
+- ✅ Atlassian Agile Jira Certificate  
+- ✅ Postman API Student Expert  
+- ✅ Jenkins & DevOps (BTK Akademi)  
+- ✅ Apache JMeter (Udemy)
+
+---
+
+## 🧠 Tech Stack
+
+| Area             | Tools / Technologies                                   |
+|------------------|--------------------------------------------------------|
+| Programming      | Java, JavaScript, TypeScript, SQL                      |
+| Automation Tools | Selenium, Playwright, Karate, Appium, Cypress          |
+| API Testing      | Postman, Karate, REST Assured                          |
+| Performance      | Apache JMeter                                          |
+| CI/CD & Version  | Git, GitHub, GitLab, Jenkins, Bitbucket, Bamboo        |
+| Project Mgmt     | Jira, Xray, Confluence                                 |
+| Databases        | MySQL, MongoDB, PostgreSQL                             |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2C2E3E?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kn-oz&show_icons=true&theme=default" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kn-oz&theme=default" width="400"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📫 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kn-oz&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kn-oz&theme=radical" width="400"/>
-</p>
+I'm always open to collaboration, freelance QA work, or sharing knowledge.  
+Feel free to reach out via email or LinkedIn.
 
----
-
-### 🏆 Achievements
-
-- 🥇 Top 25 Global Tester on uTest (Ranked #23)
-- ✅ ISTQB Certified
-- 📚 Spanish Speaker (B2 Level)
-
----
-
-### 📘 Latest Certificates
-
-- ISTQB® Foundation Level (2024)
-- Postman Student Expert
-- Atlassian Jira Agile Professional
-- DevOps with Jenkins (BTK Akademi)
-- Apache JMeter - Udemy
-
----
-
-### 📬 Let’s Connect
-
-<p align="center">
-  <a href="mailto:kaanozturkbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kaan-ozturk"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/kn-oz"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">💡 "Break things with purpose. Then automate the fix." </p>
+> “Quality means doing it right when no one is looking.” – Henry Ford
