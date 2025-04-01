@@ -21,6 +21,35 @@ I specialize in creating scalable automation frameworks, conducting performance 
 - 🌐 Fluent in English | Intermediate Spanish | Native Turkish
 
 ---
+## 🛠 When I Code, I Rely On...
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</p>
+
+---
+
+## 💻 Programs I Use Daily
+
+- 🧪 **Testing Tools**: Postman, Karate, Selenium, Playwright, Appium  
+- ⚙️ **Automation**: Jenkins, GitHub Actions, GitLab CI/CD  
+- 💬 **Collaboration**: Jira, Confluence, Slack  
+- 🧠 **IDE**: VS Code, IntelliJ IDEA  
+- 🐘 **Databases**: PostgreSQL, MongoDB, MySQL  
 
 ## 📜 Certifications
 
@@ -43,46 +72,6 @@ I specialize in creating scalable automation frameworks, conducting performance 
 | CI/CD & Version  | Git, GitHub, GitLab, Jenkins, Bitbucket, Bamboo        |
 | Project Mgmt     | Jira, Xray, Confluence                                 |
 | Databases        | MySQL, MongoDB, PostgreSQL                             |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kn-oz&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&card_width=420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kn-oz&theme=tokyonight&hide_border=false&card_width=420" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/kn-oz/karate-api-testing-framework">
-    <img src="https://img.shields.io/badge/Karate%20API%20Framework-%2300BFA5.svg?&style=for-the-badge&logo=karate&logoColor=white" />
-  </a>
-  <p><b>Karate API Testing Framework</b><br>
-  🔍 End-to-end automated API tests with dynamic data, reports, and CI/CD pipelines.</p>
-
-  <br/>
-
-  <a href="https://github.com/kn-oz/playwright-ui-automation">
-    <img src="https://img.shields.io/badge/Playwright%20UI%20Automation-%232C2E3E.svg?&style=for-the-badge&logo=playwright&logoColor=white" />
-  </a>
-  <p><b>Playwright UI Automation</b><br>
-  🎯 Full UI test suite in TypeScript for regression and smoke testing, fully maintainable and scalable.</p>
-
-  <br/>
-
-  <a href="https://github.com/kn-oz/jmeter-performance-test">
-    <img src="https://img.shields.io/badge/JMeter%20Performance%20Suite-%23D22128.svg?&style=for-the-badge&logo=apachejmeter&logoColor=white" />
-  </a>
-  <p><b>JMeter Performance Suite</b><br>
-  🚀 Load & stress test plan to simulate user behavior, monitor service scalability, and generate visual reports.</p>
-
-</div>
-
 
 ---
 
