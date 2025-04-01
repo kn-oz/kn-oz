@@ -1,18 +1,10 @@
 <h1 align="center">Kaan Öztürk</h1>
 <p align="center"><strong>QA Automation Engineer | SDET</strong></p>
 <p align="center">
-  <a href="mailto:kaanozturkbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/kaanozturkbusiness@gmail.com-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/kaan-ozturk">
-    <img src="https://img.shields.io/badge/Kaan%20Öztürk-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/kn-oz">
-    <img src="https://img.shields.io/badge/kn--oz-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.utest.com/profile/kaan.ozturk">
-    <img src="https://img.shields.io/badge/Profile-uTest-000000?style=for-the-badge&logo=testcafe&logoColor=white" />
-  </a>
+  <a href="mailto:kaanozturkbusiness@gmail.com"><code><b>📧 kaanozturkbusiness@gmail.com</b></code></a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/kaan-ozturk"><code><b>🔗 LinkedIn</b></code></a> &nbsp;|&nbsp;
+  <a href="https://github.com/kn-oz"><code><b>💻 GitHub</b></code></a> &nbsp;|&nbsp;
+  <a href="https://www.utest.com/profile/kaan.ozturk"><code><b>🧪 uTest</b></code></a>
 </p>
 
 ---
