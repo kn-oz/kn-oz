@@ -52,14 +52,6 @@ I specialize in creating scalable automation frameworks, conducting performance 
 - 🧠 **IDE**: VS Code, IntelliJ IDEA  
 - 🐘 **Databases**: PostgreSQL, MongoDB, MySQL  
 
-## 📜 Certifications
-
-- ✅ ISTQB® Foundation Level (2024)  
-- ✅ Atlassian Agile Jira Certificate  
-- ✅ Postman API Expert  
-- ✅ Jenkins & DevOps 
-- ✅ Apache JMeter 
-
 ---
 
 ## 🧠 Tech Stack
