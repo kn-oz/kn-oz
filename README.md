@@ -12,7 +12,6 @@
 
 ---
 <h2 align="left">
-  <img src="https://github.com/kn-oz/kn-oz/blob/main/assets/avatar.png" width="30" style="border-radius: 50%;" />
   About Me
 </h2>
 
