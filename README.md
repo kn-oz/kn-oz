@@ -8,8 +8,20 @@
 </p>
 
 ---
+<h2 align="left">
+  <img src="https://github.com/kn-oz/kn-oz/blob/main/assets/avatar.png" width="30" style="border-radius: 50%;" />
+  About Me
+</h2>
 
-## 🧑‍💼 About Me
+I'm a **QA Automation Engineer** with a strong background in end-to-end testing for financial applications.  
+I specialize in creating scalable automation frameworks, conducting performance testing, and enhancing test strategies in fast-paced, Agile environments.
+
+- 💻 **Languages**: Java, TypeScript, SQL  
+- ⚙️ **Frameworks**: Playwright, Selenium, Karate, Cucumber, Appium  
+- 📊 **Testing Areas**: UI • API • Mobile • Performance  
+- 🔧 **Tools**: Postman, JMeter, Jenkins, Git, Jira, Xray, Confluence  
+- 🌍 **Languages**: Fluent in English | Intermediate Spanish | Native Turkish
+
 
 I’m a **QA Automation Engineer** with a strong background in end-to-end testing for financial applications.  
 I specialize in creating scalable automation frameworks, conducting performance testing, and enhancing test strategies in fast-paced, Agile environments.
