@@ -1,5 +1,5 @@
 <h1 align="center">Kaan Öztürk</h1>
-<p align="center"><strong>QA Automation Engineer | SDET | FinTech Specialist</strong></p>
+<p align="center"><strong>QA Automation Engineer | SDET</strong></p>
 <p align="center">
   <a href="mailto:kaanozturkbusiness@gmail.com">📧 kaanozturkbusiness@gmail.com</a> • 
   <a href="https://linkedin.com/in/kaan-ozturk">LinkedIn</a> • 
@@ -19,22 +19,6 @@ I specialize in creating scalable automation frameworks, conducting performance 
 - 📊 Testing Areas: UI • API • Mobile • Performance
 - 🔁 Tools: Postman, JMeter, Jenkins, Git, Jira, Xray, Confluence
 - 🌐 Fluent in English | Intermediate Spanish | Native Turkish
-
----
-
-## 💼 Experience Highlights
-
-### **Odeal – QA Engineer**  
-*Istanbul, Turkey | Sep 2024 – Present*  
-- Backend test automation with **Karate** and **Playwright**  
-- Performance testing with **JMeter**  
-- Working in FinTech domain with CI/CD and Agile processes
-
-### **FTD Limited – Software Test Engineer**  
-*Dubai, UAE | Oct 2022 – Sep 2024*  
-- Built automation with **Selenium, Cucumber, TestNG**  
-- API and DB testing with **Postman & SQL**  
-- Mobile testing on Android & iOS using **Appium**
 
 ---
 
@@ -73,7 +57,6 @@ I specialize in creating scalable automation frameworks, conducting performance 
 
 ## 📫 Let's Connect
 
-I'm always open to collaboration, freelance QA work, or sharing knowledge.  
 Feel free to reach out via email or LinkedIn.
 
 > “Quality means doing it right when no one is looking.” – Henry Ford
