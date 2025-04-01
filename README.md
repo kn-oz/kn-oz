@@ -53,9 +53,36 @@ I specialize in creating scalable automation frameworks, conducting performance 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kn-oz&theme=tokyonight&hide_border=false&card_width=420" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kn-oz&layout=compact&theme=tokyonight&card_width=860"/>
-</p>
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/kn-oz/karate-api-testing-framework">
+    <img src="https://img.shields.io/badge/Karate%20API%20Framework-%2300BFA5.svg?&style=for-the-badge&logo=karate&logoColor=white" />
+  </a>
+  <p><b>Karate API Testing Framework</b><br>
+  🔍 End-to-end automated API tests with dynamic data, reports, and CI/CD pipelines.</p>
+
+  <br/>
+
+  <a href="https://github.com/kn-oz/playwright-ui-automation">
+    <img src="https://img.shields.io/badge/Playwright%20UI%20Automation-%232C2E3E.svg?&style=for-the-badge&logo=playwright&logoColor=white" />
+  </a>
+  <p><b>Playwright UI Automation</b><br>
+  🎯 Full UI test suite in TypeScript for regression and smoke testing, fully maintainable and scalable.</p>
+
+  <br/>
+
+  <a href="https://github.com/kn-oz/jmeter-performance-test">
+    <img src="https://img.shields.io/badge/JMeter%20Performance%20Suite-%23D22128.svg?&style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  </a>
+  <p><b>JMeter Performance Suite</b><br>
+  🚀 Load & stress test plan to simulate user behavior, monitor service scalability, and generate visual reports.</p>
+
+</div>
+
 
 ---
 
