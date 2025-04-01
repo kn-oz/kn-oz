@@ -2,18 +2,19 @@
 <p align="center"><strong>QA Automation Engineer | SDET</strong></p>
 <p align="center">
   <a href="mailto:kaanozturkbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kaanozturkbusiness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-kaanozturkbusiness@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/kaan-ozturk">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaan%20Öztürk-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kaan%20Öztürk-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kn-oz">
-    <img src="https://img.shields.io/badge/GitHub-kn--oz-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-kn--oz-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.utest.com/profile/kaan.ozturk">
-    <img src="https://img.shields.io/badge/uTest-Freelancer-%23109DD3?style=for-the-badge&logo=ubisoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/uTest-Profile-000000?style=for-the-badge&logo=testcafe&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
