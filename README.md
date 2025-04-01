@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kn-oz/kn-oz/blob/main/assets/avatar.png" width="100" style="border-radius: 50%;" />
+  <img src="https://github.com/kn-oz/kn-oz/blob/main/assets/avatar.png" width="200" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Kaan Oz</h1>
 <p align="center"><strong>QA Automation Engineer | SDET</strong></p>
