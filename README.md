@@ -26,9 +26,9 @@ I specialize in creating scalable automation frameworks, conducting performance 
 
 - ✅ ISTQB® Foundation Level (2024)  
 - ✅ Atlassian Agile Jira Certificate  
-- ✅ Postman API Student Expert  
-- ✅ Jenkins & DevOps (BTK Akademi)  
-- ✅ Apache JMeter (Udemy)
+- ✅ Postman API Expert  
+- ✅ Jenkins & DevOps 
+- ✅ Apache JMeter 
 
 ---
 
