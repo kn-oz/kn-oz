@@ -1,4 +1,4 @@
-# <p align="center">
+<p align="center">
   <img src="https://github.com/kn-oz/kn-oz/blob/main/assets/avatar.png" width="100" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Kaan Oz</h1>
