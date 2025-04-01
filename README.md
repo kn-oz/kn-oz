@@ -49,8 +49,12 @@ I specialize in creating scalable automation frameworks, conducting performance 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kn-oz&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kn-oz&theme=default" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kn-oz&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&card_width=420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kn-oz&theme=tokyonight&hide_border=false&card_width=420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kn-oz&layout=compact&theme=tokyonight&card_width=860"/>
 </p>
 
 ---
